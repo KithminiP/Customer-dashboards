@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KithminiP
 - 👀 I’m interested in data science, project management and data analysis. 
-- 🌱 I’m currently learning data science.
+- 🌱 I’m a recent MSc. Data Science graduate from University of Greenwich
 - 💞️ I’m looking to collaborate on machine learning, data analytic projects.
 - 📫 How to reach me: kithminiishara@gmail.com
 
